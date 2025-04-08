@@ -10,9 +10,8 @@ Todos os dias, um novo desafio será resolvido e documentado aqui no repositóri
 
 | Dia | Desafio | Linguagem | Status |
 |-----|---------|-----------|--------|
-| 01  | [1001 - Extremamente Básico](./dia01/1001.cpp) | C++ | ✅ |
+| 01  | [1000](./dia001/1000.cpp), [1001](./dia001/1001.cpp) | C++ | ✅ |
 | 02  | ...     | ...       | 🔄 |
-| ... | ...     | ...       | ... |
 
 > 📌 *Tabela será atualizada diariamente.*
 
