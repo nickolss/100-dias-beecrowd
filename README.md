@@ -11,7 +11,7 @@ Todos os dias, um novo desafio será resolvido e documentado aqui no repositóri
 | Dia | Desafio | Linguagem | Status |
 |-----|---------|-----------|--------|
 | 01  | [1000](./dia001/1000.cpp), [1001](./dia001/1001.cpp) | C++ | ✅ |
-| 02  | [1002](./dia002/1002.cpp), [1003](./dia002/1003.cpp), [1004](./dia002/1004.cpp),[1005](./dia002/1005.cpp)     | C++       | ✅ |
+| 02  | [1002](./dia002/1002.cpp), [1003](./dia002/1003.cpp), [1004](./dia002/1004.cpp), [1005](./dia002/1005.cpp), [1006](./dia002/1006.cpp), [1007](./dia002/1007.cpp)     | C++       | ✅ |
 | 03  | ...     | ...       | 🔄 |
 
 > 📌 *Tabela será atualizada diariamente.*
