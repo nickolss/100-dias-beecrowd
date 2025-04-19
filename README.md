@@ -21,7 +21,8 @@ Todos os dias, um novo desafio será resolvido e documentado aqui no repositóri
 | 009  | [1038](./dia009/1038.cpp) | C++ |✅ |
 | 010  | [2006](./dia010/2006.cpp), [2374](./dia010/2374.cpp), [3048](./dia010/3048.cpp) | C++ |✅ |
 | 011  | [1040](./dia011/1040.cpp), [1041](./dia011/1041.cpp) | C++ |✅ |
-| 012  | ... | ... |🔄 |
+| 012  | [1161](./dia012/1161.cpp), [1170](./dia012/1170.cpp) | C++ |✅ |
+| 013  | ... | ... |🔄 |
 
 > 📌 *Tabela será atualizada diariamente.*
 
